@@ -1,0 +1,7 @@
+.btn-secondary, .btn-secondary:hover, .btn-secondary:active, .btn-secondary:visited {
+    background-color: rgb(53, 245, 53);
+}
+
+.modal-dialog {
+    width: 1500px;
+}
